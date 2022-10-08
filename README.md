@@ -35,8 +35,8 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400>
-    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=400>
+    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=400>
+    <img src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif" width=400>
 </p>
 <div align="center">
 <table> 
