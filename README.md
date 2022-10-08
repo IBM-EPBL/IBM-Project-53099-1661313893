@@ -16,9 +16,9 @@
 <ul><i>
   <li>Pragadeeswaran S</li></ul>
   <h2>  Team Members:</h2>
- <ul><li>Naveen Kumar R</li>
-  <li> Chandran M</li>
-  <li> Kishore Kumar B </li>
+ <ul><li><a href="https://github.com/naveen2708R">Naveen Kumar R</a></li>
+  <li> <a href="https://github.com/naveen2708R">Chandran M</a></li>
+  <li><a href="https://github.com/naveen2708R"> Kishore Kumar B</a> </li>
   </i>
   </ul>
 <br>
