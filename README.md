@@ -14,11 +14,11 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Lead: </h2> 
 <ul><i>
-  <li>Pragadeeswaran S</li></ul>
+  <li><a href="https://github.com/Pragadeesvp">Pragadeeswaran S </a></li></ul>
   <h2>  Team Members:</h2>
  <ul><li><a href="https://github.com/naveen2708R">Naveen Kumar R</a></li>
-  <li> <a href="https://github.com/naveen2708R">Chandran M</a></li>
-  <li><a href="https://github.com/naveen2708R"> Kishore Kumar B</a> </li>
+  <li> <a href="https://github.com/chandran1010">Chandran M</a></li>
+  <li><a href="https://github.com/KISHORE0508"> Kishore Kumar B</a> </li>
   </i>
   </ul>
 <br>
