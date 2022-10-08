@@ -35,8 +35,9 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=400>
-    <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" width=500>
+    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=600>
+    <br>
+    <img src="https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif" width="600">
 </p>
 <div align="center">
 <table> 
