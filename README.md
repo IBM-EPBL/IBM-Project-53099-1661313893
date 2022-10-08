@@ -36,7 +36,7 @@
 
 <p float="middle" align="center">
     <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=400>
-    <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" width=500>
+    <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" width=500>
 </p>
 <div align="center">
 <table> 
