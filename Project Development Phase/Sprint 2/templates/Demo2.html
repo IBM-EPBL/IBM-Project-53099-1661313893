@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>University Admit Eligibility Predictor</title>
+</head>
+<body class="home">
+    <h1>University Admit Eligibility Predictor</h1>
+    <form method="post" action="/predict" class="form">
+        <div class="form-data">
+            <label for="greScore">GRE Score:</label>
+            <input name="greScore" placeholder="GRE Score" required>
+        </div>
+        <div class="form-data">
+            <label for="toeflScore">TOEFL Score:</label>
+            <input name="toeflScore" placeholder="TOEFL Score" required>
+        </div>
+        <div class="form-data">
+            <label for="univRank">University Rank:</label>
+            <input name="univRank" placeholder="University Rank" required>
+        </div>
+        <div class="form-data">
+            <label for="sop">SOP:</label>
+            <input name="sop" placeholder="SOP" required>
+        </div>
+        <div class="form-data">
+            <label for="lor">LOR:</label>
+            <input name="lor" placeholder="LOR" required>
+        </div>
+        <div class="form-data">
+            <label for="cgpa">CGPA:</label>
+            <input name="cgpa" placeholder="CGPA" required>
+        </div>
+        <div class="form-data">
+            <label for="research">Research:</label>
+            <input name="research" placeholder="Research" required>
+        </div>
+        <br>
+        <br>
+        <button type="submit" class="btns">Submit</button>
+        <a href="/templates/index.html"><button type="button" class="btns">Back</button></a>
+    </form>
+</body>
+</html>
