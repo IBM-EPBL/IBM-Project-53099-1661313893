@@ -35,10 +35,11 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=600>
-    <br>
-    <img src="https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif" width="600">
+    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=450>
 </p>
+<h2>Final Project Demo Video: </h2> 
+<ul><h3>Link</h3><i>
+  <li><a href="https://clipchamp.com/watch/zcs317cKYju ">Click to Watch</a></li></ul>
 <div align="center">
 <table> 
   <tr>
