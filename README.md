@@ -37,9 +37,6 @@
 <p float="middle" align="center">
     <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=450>
 </p>
-<h2>Final Project Demo Video: </h2> 
-<ul><h3>Link</h3><i>
-  <li><a href="https://clipchamp.com/watch/zcs317cKYju ">Click to Watch</a></li></ul>
 <div align="center">
 <table> 
   <tr>
@@ -49,3 +46,7 @@
 
   </div>
  <br>
+<h2>Final Project Demo Video: </h2> 
+<ul><h3>Link</h3><i>
+  <li><a href="https://clipchamp.com/watch/zcs317cKYju ">Click to Watch</a></li></ul>
+
