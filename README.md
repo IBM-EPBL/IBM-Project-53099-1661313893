@@ -48,5 +48,5 @@
  <br>
 <h2>Final Project Demo Video: </h2> 
 <ul><h3>Link</h3><i>
-  <li><a href="https://clipchamp.com/watch/zcs317cKYju ">Click to Watch</a></li></ul>
+  <li><a href="https://youtu.be/HDjDZe9rQKI">Click to Watch</a></li></ul>
 
