@@ -35,7 +35,7 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=450>
+    <img src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" width=400>
 </p>
 <div align="center">
 <table> 
@@ -43,10 +43,9 @@
     <td>Data Science</td>
   </tr>
  </table>
-
-  </div>
+</div>
  <br>
-<h2>Final Project Demo Video: </h2> 
+<h2>Final Project Demo Video:</h2> 
 <ul><h3>Link</h3><i>
-  <li><a href="https://youtu.be/HDjDZe9rQKI">Click to Watch</a></li></ul>
+<li><a href="https://youtu.be/HDjDZe9rQKI">https://youtu.be/HDjDZe9rQKI</a></li></ul>
 
